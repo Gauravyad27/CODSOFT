@@ -7,15 +7,15 @@ Welcome to the Java Development Projects repository! This repository contains th
 
 1. **Number Guessing Game**: 
    - A fun console-based game where users guess a randomly generated number.
-   - Features feedback on guesses and the option to play multiple rounds.
+   - It features feedback on guesses and the option to play multiple rounds.
 
 2. **Student Grade Calculator**: 
    - A tool for calculating student grades based on their scores in various subjects.
-   - Computes total, average, and assigns a letter grade accordingly.
+   - It computes total, average, and assigns a letter grade accordingly.
 
 3. **ATM Interface**: 
    - A simulation of basic ATM functionalities.
-   - Allows users to check balance, deposit money, and withdraw cash with user authentication.
+   - It allows users to check balance, deposit money, and withdraw cash with user authentication.
   
 
 
