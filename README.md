@@ -23,7 +23,7 @@ Welcome to the Java Development Projects repository! This repository contains th
   
 Special thanks to Codsoft for giving me the opportunity to learn and grow as a Java developer.
 
-Feel free to modify any section to better fit your needs or to add any additional information you think is important, that would be much helpful for as well.
+Feel free to modify any section to better fit your needs or to add any additional information you think is important, that would be much helpful for me as well.
 
 
 
